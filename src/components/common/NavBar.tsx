@@ -50,7 +50,7 @@ function NavBar() {
       >
         <div className="flex justify-between mx-[10px]">
           <div className="flex gap-[50px] text-[16px] items-center select-none">
-            <p className="font-bold text-[15px] md:text-[35px]  leading-tight md:leading-[4rem]">
+            <p className="font-bold text-[35px] md:text-[35px]  leading-tight md:leading-[4rem]">
             Asusu<br />
           </p>
           </div>
