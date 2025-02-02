@@ -7,8 +7,8 @@ function HeroSection() {
       <div>
         <div className="relative inline-block">
           <p className="font-bold text-[35px] md:text-[64px]  leading-tight md:leading-[4rem]">
-            Make The best <br />
-            Financial Decisions
+            Smart Loans. <br />
+            Profitable Investments
           </p>
 
           <div className="hidden md:block absolute top-[-10rem] right-0 -z-10">
@@ -18,8 +18,8 @@ function HeroSection() {
 
         <div>
           <p className="text-gray-500 py-[24px]">
-            Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet
-            faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.
+            Take Control of Your Finances with Smart Loans & Profitable Investments.
+            Access flexible loan options and high-yield investment opportunities to secure your financial future.
           </p>
         </div>
         <div className="flex gap-[20px] md:gap-[40px] flex-col md:flex-row">
@@ -34,7 +34,7 @@ function HeroSection() {
             <div>
               <img src="/images/play_icon.svg" alt="play icon" />
             </div>
-            <p>Watch Video</p>
+            <p>See How</p>
           </div>
         </div>
       </div>
