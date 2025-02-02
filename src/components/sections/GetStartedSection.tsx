@@ -17,13 +17,12 @@ function GetStartedSection() {
 
           <div>
             <p className="text-white pt-2 pb-4">
-              Risus habitant leo egestas mauris diam eget morbi tempus
-              vulputate.
+              Take the first step towards smarter financial decisions. Apply for a loan or explore investment opportunities with ease.
             </p>
           </div>
           <div className="flex gap-[20px] md:gap-[40px] flex-col md:flex-row">
             <MainButton
-              text="Download App"
+              text="Contact Us"
               rightIconRoute="/images/apple.svg"
               rightIconClass="pl-[8px]"
               classes="font-bold bg-white text-black w-[208px]"
