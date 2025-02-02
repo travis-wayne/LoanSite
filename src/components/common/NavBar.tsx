@@ -20,7 +20,9 @@ function NavBar() {
           <div className="flex gap-8 items-center">
             {" "}
             <div className="w-[120px]">
-              <img src="/images/logo.png" alt="logo" className="object-cover" />
+              <p className="font-bold text-[35px] md:text-[64px]  leading-tight md:leading-[4rem]">
+            Asusu<br />
+          </p>
             </div>
             <div className="flex gap-[20px] xl:gap-[24px] text-[16px] items-center select-none">
               {links.map((link, index) => (
