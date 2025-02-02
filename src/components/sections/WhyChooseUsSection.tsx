@@ -11,7 +11,7 @@ function WhyChooseUsSection() {
               Advantages
             </p>
             <p className="text-black text-[48px] font-bold leading-tight">
-              Why Choose Uifry?
+              Why Choose Asusu?
             </p>
           </div>
           <div className="flex flex-col gap-[32px] mt-[32px]">
@@ -19,15 +19,11 @@ function WhyChooseUsSection() {
               <div>
                 <img src="/images/bell_icon.svg" alt="bell icon" />
               </div>
-              <p className="font-semibold text-[28px]">Clever Notifications</p>
+              <p className="font-semibold text-[28px]">Instant Financial Solutions</p>
             </div>
 
             <div className="text-gray-500 my-[32px]">
-              Arcu at dictum sapien, mollis. Vulputate sit id accumsan,
-              ultricies. In ultrices malesuada elit mauris etiam odio. Duis
-              tristique lacus, et blandit viverra nisl velit. Sed mattis
-              rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget
-              ac dolor neque lorem sapien, suspendisse aliquam.
+              Whether you need a loan for emergencies or want to invest for the future, our platform provides quick access to funds and profitable investment opportunities with minimal processing time.
             </div>
           </div>
         </div>
@@ -46,15 +42,11 @@ function WhyChooseUsSection() {
               <div>
                 <img src="/images/star_circle.svg" alt="bell icon" />
               </div>
-              <p className="font-semibold text-[28px]">Fully Customizable</p>
+              <p className="font-semibold text-[28px]">Flexible & User-Centered Approache</p>
             </div>
 
             <div className="text-gray-500">
-              Arcu at dictum sapien, mollis. Vulputate sit id accumsan,
-              ultricies. In ultrices malesuada elit mauris etiam odio. Duis
-              tristique lacus, et blandit viverra nisl velit. Sed mattis
-              rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget
-              ac dolor neque lorem sapien, suspendisse aliquam.
+              We offer personalized loan terms and diverse investment options tailored to different financial needs, ensuring you have full control over your money with easy repayment plans and competitive returns.
             </div>
           </div>
         </div>
