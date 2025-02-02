@@ -4,8 +4,8 @@ import localFont from 'next/font/local'
 
 
 export const metadata: Metadata = {
-  title: 'UIFry Website',
-  description: 'A cool wbsite for UIFry',
+  title: "Your Smart Fintech Solution",
+description: "A seamless platform for quick loans and profitable investments. Secure, transparent, and easy to use.",
 }
 
 const cdFont = localFont({
