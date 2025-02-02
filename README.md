@@ -1,12 +1,5 @@
-# UIFry
+# LoanSite 
 UiFry landing page built with Nextjs, Shadcn, and Tailwind.
-
-
-# Youtube
-https://youtu.be/qXDfyfGwNYg
-
-# ☁️ Deployed link
-https://uifry-nine-sage.vercel.app/
 
 Figma:  
 https://www.figma.com/design/zZLxcTjFJFsmwTEZHuIzU7/App-Landing-Page-Finance-Bank-Money-(Community)?node-id=101-79&t=2cLEIfxZDWGYzEmB-0
