@@ -6,23 +6,25 @@ import MainButton from "../common/MainButton";
 
 function FooterSection() {
   const data = {
-    group1: ["Home", "About Us", "Bookings", "Blog"],
+    group1: ["Home", "About Us", "Featurs", "Consult"],
     group2: ["Terms of Use", "Privacy Policy", "Cookie Policy"],
-    group3: ["Take Tour", "Live Chat", "Reviews"],
+    group3: ["Take Tour", "Live Chat", "Enquire"],
   };
   return (
     <section className="pb-[80px]">
       <div className="flex flex-col md:flex-row gap-8 justify-between">
         <div>
           <div className="w-[117px]">
-            <img src="/images/logo.png" alt="logo" className="object-cover" />
+            <p className="font-bold text-[35px] md:text-[35px]  leading-tight md:leading-[4rem]">
+            Asusu. <br />
+          </p>
           </div>
           <div className="flex items-center gap-2  mt-4">
             <div>
               <img src="/images/envelop.svg" alt="envelop icon" />
             </div>
             <p className="text-black text-[16px] font-medium">
-              Help@Frybix.Com
+              info@asusu.com
             </p>
           </div>
           <div className="flex items-center gap-2 mt-4">
@@ -30,7 +32,7 @@ function FooterSection() {
               <img src="/images/phone.svg" alt="envelop icon" />
             </div>
             <p className="text-black text-[16px] font-medium">
-              +1 234 456 678 89
+              +234 813 729 7274
             </p>
           </div>
         </div>
@@ -48,7 +50,7 @@ function FooterSection() {
           <p className="font-medium text-[18px] md:text-[32px]">Legal</p>
           <div className="inline-flex mt-4 flex-col gap-4 font-medium">
             {data.group2.map((link, index) => (
-              <Link href={"/"} key={index}>
+              <Link href={"/termsandconditions"} key={index}>
                 {link}
               </Link>
             ))}
@@ -58,7 +60,7 @@ function FooterSection() {
           <p className="font-medium text-[18px] md:text-[32px]">Product</p>
           <div className="inline-flex mt-4 flex-col gap-4 font-medium">
             {data.group3.map((link, index) => (
-              <Link href={"/"} key={index}>
+              <Link href={"/contact"} key={index}>
                 {link}
               </Link>
             ))}
@@ -86,7 +88,7 @@ function FooterSection() {
           <Separator />
         </div>
         <p className="text-center font-medium">
-          Copyright 2022 uifry.com all rights reserved
+          Copyright 2025 @ Asusu.com all rights reserved
         </p>
       </div>
     </section>
