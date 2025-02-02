@@ -8,7 +8,7 @@ function TestimonialSection() {
           Testimonial
         </p>
         <p className="text-black text-[48px] font-bold leading-tight">
-          What Our Users Say About Us?
+          What People Say About Us?
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
@@ -18,22 +18,18 @@ function TestimonialSection() {
         <div>
           <div className="flex gap-2 items-center">
             <p className="font-semibold text-[28px] uppercase">
-              the best financial accounting app ever!
+              The Ultimate Fintech App for Smart Loans & Profitable Investments!
             </p>
           </div>
 
           <div className="text-gray-500 my-[24px]">
-            “Arcu at dictum sapien, mollis. Vulputate sit id accumsan,
-            ultricies. In ultrices malesuada elit mauris etiam odio. Duis
-            tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus,
-            diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor
-            neque lorem sapien, suspendisse aliquam.”
+            “Take control of your financial future with seamless loan access and high-yield investment opportunities. Our platform is designed for speed, security, and success—helping you borrow with confidence and invest with ease. No hidden fees, no complications—just smart financial solutions at your fingertips.”
           </div>
 
           <div>
             <img src="/images/reviewers.png" alt="reviewers" />
           </div>
-          <p className="font-bold mt-[24px]">Nick Jones</p>
+          <p className="font-bold mt-[24px]">CEO</p>
         </div>
       </div>
     </section>
