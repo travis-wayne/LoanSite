@@ -20,7 +20,7 @@ function NavBar() {
           <div className="flex gap-8 items-center">
             {" "}
             <div className="w-[120px]">
-              <p className="font-bold text-[35px] md:text-[64px]  leading-tight md:leading-[4rem]">
+              <p className="font-bold text-[15px] md:text-[35px]  leading-tight md:leading-[4rem]">
             Asusu<br />
           </p>
             </div>
@@ -50,7 +50,9 @@ function NavBar() {
       >
         <div className="flex justify-between mx-[10px]">
           <div className="flex gap-[50px] text-[16px] items-center select-none">
-            <img src="/images/logo.png" alt="logo" className="w-[9rem]" />
+            <p className="font-bold text-[15px] md:text-[35px]  leading-tight md:leading-[4rem]">
+            Asusu<br />
+          </p>
           </div>
           <div className="flex items-center gap-[40px]">
             {menu ? (
@@ -76,7 +78,7 @@ function NavBar() {
               ))}
 
               <div className="flex flex-col gap-[40px] select-none">
-                <MainButton text="Download" classes="" />
+                <MainButton text="Get Started" classes="" />
               </div>
             </div>
           </div>
